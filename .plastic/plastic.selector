@@ -1,0 +1,4 @@
+repository "Galaxy Shooter/Galaxy Shooter@18968361011975@cloud"
+  path "/"
+    br "/main"
+    co "/main"
